@@ -1,6 +1,6 @@
 # Lense - Filter images
 
-![Lense tab](readme_img\lense.png?raw=true "Lense")
+![Lense tab](readme_img/lense.png?raw=true "Lense")
 
 
 ## Running locally for development

@@ -7,7 +7,7 @@
 </tr>
 </table>
 
-![BUZZ IT UP](public\entertainment.png?raw=true "Trending page")
+![BUZZ IT UP](public/entertainment.png?raw=true "Trending page")
 
 To run it locally, 
 
